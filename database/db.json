@@ -1,0 +1,94 @@
+{
+  "produtos": [
+    {
+      "nome": "Wolverine",
+      "preco": "80,00",
+      "imagem": "https://storage.geralgeek.com.br/images/venda/Logan-X-Men-Iron-Studios-Wolverine-643f588e16f28.jpg",
+      "id": 1
+    },
+    {
+      "nome": "Samurai X",
+      "preco": "90,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvnebQYb-oBayfNkTkoldeiiPS2zzrNM2eaQ&s",
+      "id": 2
+    },
+    {
+      "nome": "Avatar Aang",
+      "preco": "25,00",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_905561-MLB74711735941_022024-O.webp",
+      "id": 4
+    },
+    {
+      "nome": "Harry Potter",
+      "preco": "30,00",
+      "imagem": "https://a-static.mlcdn.com.br/450x450/harry-potter-action-figure-q-posket-harry-potter-vassoura-manu-presentes/manupresente/15094976484/c97f637c6b2db436acc5a6907f5089c4.jpeg",
+      "id": 5
+    },
+    {
+      "nome": "The Flash",
+      "preco": "25,00",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_799587-MLB74888832444_032024-O.webp",
+      "id": 6
+    },
+    {
+      "nome": "Pikachu",
+      "preco": "30,00",
+      "imagem": "https://acdn.mitiendanube.com/stores/002/321/455/products/h2fd9d401b4bc40b7986f28692cb3f9d1c1-991894d6626db9c78b16795140533465-1024-1024.jpg",
+      "id": 7
+    },
+    {
+      "nome": "Hiei",
+      "preco": "20,00",
+      "imagem": "https://i.pinimg.com/736x/9d/70/47/9d704784fe7a3407c3580b89814b8023.jpg",
+      "id": 8
+    },
+    {
+      "nome": "Iori Yagami",
+      "preco": "20,00",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/460977/pre_venda_estatua_iori_yagami_the_king_of_fighters_97_escala_1_8_gantaku_35223_1_20201211173406.png",
+      "id": 9
+    },
+    {
+      "nome": "Kung Fu Panda",
+      "preco": "35,00",
+      "imagem": "https://s.alicdn.com/@sc04/kf/Hf3568ebc27e24a20b8869c082c29e4d0y.jpg_300x300.jpg",
+      "id": 10
+    },
+    {
+      "nome": "Goku",
+      "preco": "30,00",
+      "imagem": "https://i.ebayimg.com/images/g/OeMAAOSweTVlCRbK/s-l1200.webp",
+      "id": 11
+    },
+    {
+      "nome": "Roronoa Zoro",
+      "preco": "40,00",
+      "imagem": "https://multiverseloja.com.br/cdn/shop/files/S94c80325e5cf45f2aa76ffd2baa9e46bK.webp?v=1702772395",
+      "id": 12
+    },
+    {
+      "nome": "Shaka de Virgem",
+      "preco": "30,00",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/460977/estatua_shaka_de_virgem_os_cavaleiros_do_zodiaco_saint_seiya_48_cm_anime_manga_mkp_121381_2_94aa77558d168aed78a73e101d93c38c.jpg",
+      "id": 13
+    },
+    {
+      "nome": "Uzumaki Naruto",
+      "preco": "35,00",
+      "imagem": "https://image.made-in-china.com/202f0j00jhPGKiICHDka/Custom-Make-Anime-Naruto-Action-Figures-Vinyl-Toys.jpg",
+      "id": 14
+    },
+    {
+      "nome": "Kurosaki Ichigo",
+      "preco": "25,00",
+      "imagem": "https://cdn.awsli.com.br/600x1000/1946/1946743/produto/247051868/108-xyk95haz1m.png",
+      "id": 15
+    },
+    {
+      "nome": "Captain Tsubasa",
+      "preco": "20,00",
+      "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-22100-x6rkfcwx7aivdb",
+      "id": 16
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <title>AluraGeek</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <img src="./assets/Logo.svg" alt="Logo" class="logo">
+    </header>
+
+    <main class="container-principal">
+        <section class="produtos">
+            <h2>Meus produtos:</h2>
+            <div class="container-produtos" data-produto>
+                
+            </div>
+        </section>
+
+        <section class="formulario">
+            <h2>Adicionar produto:</h2>
+            <form action="" class="container-form" data-form>
+                <input type="text" placeholder="nome..." data-nome>
+                <input type="text" placeholder="preço..." data-preco>
+                <input type="text" placeholder="imagem..." data-imagem>
+
+                <div class="container-button">
+                    <button type="submit" class="botao-submit" id="botao">Enviar...</button>
+                    <button type="reset" class="botao-reset" id="button">Limpar...</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <img src="./assets/Logo.svg" alt="Logo">
+        <p>Desenvolvido por Valdemir Vieira</p>
+        <p>Alura - ONE-T6 2024</p>
+    </footer>
+
+    <script type="module" src="./js/controllers/main.js"></script>
+</body>
+</html>
